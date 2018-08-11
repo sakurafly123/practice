@@ -1,5 +1,4 @@
-package practice;
-
+package 网易2019实习生招聘编程题集合;
 import java.util.Scanner;
 
 public class FaceToSouth {
